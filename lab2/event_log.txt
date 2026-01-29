@@ -1,0 +1,8 @@
+Detected severity: 7
+Detected severity: 3
+Detected severity: 6
+Detected severity: 1
+Detected severity: 7
+Detected severity: 7
+Detected severity: 5
+Detected severity: 9
