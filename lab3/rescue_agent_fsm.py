@@ -2,12 +2,9 @@ import asyncio
 from spade.agent import Agent
 from spade.behaviour import FSMBehaviour, State
 
-# -----------------------------
-# CONFIG (EDIT THESE)
-# -----------------------------
-RESCUE_JID = "khemicalsrescue@xmpp.jp"   # <-- create this xmpp.jp account
-RESCUE_PASSWORD = "khemical"            # <-- password for rescue account
-VERIFY_SECURITY = False                 # recommended for lab environments
+RESCUE_JID = "khemicalsrescue@xmpp.jp"   
+RESCUE_PASSWORD = "khemical"           
+VERIFY_SECURITY = False                 
 
 
 STATE_IDLE = "IDLE"

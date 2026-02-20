@@ -4,15 +4,11 @@ from spade.agent import Agent
 from spade.behaviour import PeriodicBehaviour
 from spade.message import Message
 
-# -----------------------------
-# CONFIG (EDIT THESE)
-# -----------------------------
-SENSOR_JID = "khemicalsagent@xmpp.jp"    # <-- your existing xmpp.jp account
-SENSOR_PASSWORD = "khemical"            # <-- your sensor password
+SENSOR_JID = "khemicalsagent@xmpp.jp"   
+SENSOR_PASSWORD = "khemical"            
 
-# IMPORTANT: this must be a DIFFERENT account from sensor
-RESCUE_JID = "khemicalsrescue@xmpp.jp"  # <-- create this xmpp.jp account
-VERIFY_SECURITY = False                 # recommended for lab environments
+RESCUE_JID = "khemicalsrescue@xmpp.jp"
+VERIFY_SECURITY = False               
 
 
 class SensorAgent(Agent):
