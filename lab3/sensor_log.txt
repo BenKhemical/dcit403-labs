@@ -1,0 +1,120 @@
+[Boot] Creating SensorAgent...
+[Boot] Connecting to XMPP server (xmpp.jp)...
+[Sensor] Starting: khemicalsagent@xmpp.jp
+[Sensor] Monitoring started (every 5 seconds).
+
+[Boot] SensorAgent is running. Press CTRL+C to stop.
+[Sensor] Disaster detected -> Type=Earthquake, Severity=Medium
+[Sensor] Report sent to khemicalsrescue@xmpp.jp
+
+[Sensor] No disaster detected.
+[Sensor] Disaster detected -> Type=Fire, Severity=High
+[Sensor] Report sent to khemicalsrescue@xmpp.jp
+
+[Sensor] No disaster detected.
+[Sensor] Disaster detected -> Type=Earthquake, Severity=High
+[Sensor] Report sent to khemicalsrescue@xmpp.jp
+
+[Sensor] Disaster detected -> Type=Earthquake, Severity=Medium
+[Sensor] Report sent to khemicalsrescue@xmpp.jp
+
+[Sensor] Disaster detected -> Type=Fire, Severity=High
+[Sensor] Report sent to khemicalsrescue@xmpp.jp
+
+[Sensor] No disaster detected.
+[Sensor] Disaster detected -> Type=Earthquake, Severity=Low
+[Sensor] Report sent to khemicalsrescue@xmpp.jp
+
+[Sensor] Disaster detected -> Type=Earthquake, Severity=Medium
+[Sensor] Report sent to khemicalsrescue@xmpp.jp
+
+[Sensor] Disaster detected -> Type=Flood, Severity=Medium
+[Sensor] Report sent to khemicalsrescue@xmpp.jp
+
+[Sensor] Disaster detected -> Type=Earthquake, Severity=High
+[Sensor] Report sent to khemicalsrescue@xmpp.jp
+
+[Sensor] Disaster detected -> Type=Fire, Severity=High
+[Sensor] Report sent to khemicalsrescue@xmpp.jp
+
+[Sensor] No disaster detected.
+[Sensor] Disaster detected -> Type=Fire, Severity=High
+[Sensor] Report sent to khemicalsrescue@xmpp.jp
+
+[Sensor] Disaster detected -> Type=Earthquake, Severity=Low
+[Sensor] Report sent to khemicalsrescue@xmpp.jp
+
+[Sensor] No disaster detected.
+[Sensor] Disaster detected -> Type=Flood, Severity=Medium
+[Sensor] Report sent to khemicalsrescue@xmpp.jp
+
+[Sensor] Disaster detected -> Type=Fire, Severity=High
+[Sensor] Report sent to khemicalsrescue@xmpp.jp
+
+[Sensor] No disaster detected.
+[Sensor] No disaster detected.
+[Sensor] Disaster detected -> Type=Flood, Severity=High
+[Sensor] Report sent to khemicalsrescue@xmpp.jp
+
+[Sensor] Disaster detected -> Type=Flood, Severity=High
+[Sensor] Report sent to khemicalsrescue@xmpp.jp
+
+[Sensor] No disaster detected.
+[Sensor] No disaster detected.
+[Sensor] Disaster detected -> Type=Earthquake, Severity=Low
+[Sensor] Report sent to khemicalsrescue@xmpp.jp
+
+[Sensor] No disaster detected.
+[Sensor] Disaster detected -> Type=Flood, Severity=Low
+[Sensor] Report sent to khemicalsrescue@xmpp.jp
+
+[Sensor] Disaster detected -> Type=Earthquake, Severity=High
+[Sensor] Report sent to khemicalsrescue@xmpp.jp
+
+[Sensor] No disaster detected.
+[Sensor] Disaster detected -> Type=Fire, Severity=High
+[Sensor] Report sent to khemicalsrescue@xmpp.jp
+
+[Sensor] Disaster detected -> Type=Flood, Severity=Medium
+[Sensor] Report sent to khemicalsrescue@xmpp.jp
+
+[Sensor] Disaster detected -> Type=Flood, Severity=Medium
+[Sensor] Report sent to khemicalsrescue@xmpp.jp
+
+[Sensor] Disaster detected -> Type=Earthquake, Severity=Medium
+[Sensor] Report sent to khemicalsrescue@xmpp.jp
+
+[Sensor] Disaster detected -> Type=Earthquake, Severity=High
+[Sensor] Report sent to khemicalsrescue@xmpp.jp
+
+[Sensor] Disaster detected -> Type=Flood, Severity=Medium
+[Sensor] Report sent to khemicalsrescue@xmpp.jp
+
+[Sensor] Disaster detected -> Type=Earthquake, Severity=High
+[Sensor] Report sent to khemicalsrescue@xmpp.jp
+
+[Sensor] Disaster detected -> Type=Fire, Severity=High
+[Sensor] Report sent to khemicalsrescue@xmpp.jp
+
+[Sensor] Disaster detected -> Type=Flood, Severity=High
+[Sensor] Report sent to khemicalsrescue@xmpp.jp
+
+[Sensor] Disaster detected -> Type=Fire, Severity=Medium
+[Sensor] Report sent to khemicalsrescue@xmpp.jp
+
+[Sensor] Disaster detected -> Type=Fire, Severity=Medium
+[Sensor] Report sent to khemicalsrescue@xmpp.jp
+
+[Sensor] No disaster detected.
+[Sensor] No disaster detected.
+[Sensor] Disaster detected -> Type=Flood, Severity=Low
+[Sensor] Report sent to khemicalsrescue@xmpp.jp
+
+[Sensor] Disaster detected -> Type=Earthquake, Severity=Low
+[Sensor] Report sent to khemicalsrescue@xmpp.jp
+
+[Sensor] No disaster detected.
+[Sensor] No disaster detected.
+[Sensor] Disaster detected -> Type=Earthquake, Severity=Medium
+[Sensor] Report sent to khemicalsrescue@xmpp.jp
+
